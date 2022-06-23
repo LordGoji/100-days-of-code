@@ -23,3 +23,11 @@ Today's Progress: So today I learned Try and Except and I learned how to define 
 Thoughts: Try and except are useful for sure.
 
 Link to work: <https://github.com/LordGoji/100-days-of-code/blob/master/Day-1.py>
+
+Day 2: June 22, 2022
+
+Today's Progress: I did more with defining functions and utilizing what I've learned so far. This time I also learned to concatenate variables and strings together. I could probably learn to make the floats end after the hundreths place, but I did not have the time to look into that.
+
+Thoughts: This is becoming easier. I occasionally need to look at the previous days work to remember how something works, but this is going well. Forward progress is all you can hope for.
+
+Link to work: <https://github.com/LordGoji/100-days-of-code/blob/master/Day-2.py>
